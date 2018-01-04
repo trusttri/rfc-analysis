@@ -1,2 +1,4 @@
 # rfc-analysis
-Codes for analyzing Request for Comment (RfC), a content dispute resolution system in Wikipedia
+Codes for 
+1. creating a dataset of Requests for Comment (RfC), a content dispute resolution system in Wikipedia
+2. analyzing the dataset
